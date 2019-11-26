@@ -1,4 +1,4 @@
-package com.alibaba.concurrent.chapter1.pandc.plan1;
+package com.alibaba.concurrent.chapter1.pandc;
 
 /**
  * @Author shenmeng
