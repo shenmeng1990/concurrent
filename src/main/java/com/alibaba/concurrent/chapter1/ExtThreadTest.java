@@ -5,7 +5,7 @@ package com.alibaba.concurrent.chapter1;
  * @Date 2019/11/26
  **/
 
-public class ThreadTest {
+public class ExtThreadTest {
 
     public static class MyThread extends Thread{
 
